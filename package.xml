@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <package>
-    <name>test</name>
+    <name>ROServer</name>
     <version>0.0.0</version>
     <description>
         The main repository for humanoid kid size league at RoboCup
