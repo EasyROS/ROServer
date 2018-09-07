@@ -16,4 +16,8 @@
 
     <buildtool_depend>catkin</buildtool_depend>
 
+	<build_depend>TL</build_depend>
+
+	<run_depend>TL</run_depend>
+
 </package>
