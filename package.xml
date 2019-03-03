@@ -15,11 +15,11 @@
     <author email="ls.dean.ch@gmail.com">dean</author>
 
     <buildtool_depend>catkin</buildtool_depend>
-
-	<build_depend>TL</build_depend>
-	<build_depend>ShellService</build_depend>
-
-	<run_depend>TL</run_depend>
-	<run_depend>ShellService</run_depend>
+    
+    <build_depend>ShellService</build_depend>
+    <build_depend>TL</build_depend>
+    
+    <run_depend>ShellService</run_depend>
+    <run_depend>TL</run_depend>
 
 </package>

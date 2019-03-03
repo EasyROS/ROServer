@@ -2,13 +2,13 @@ cmake_minimum_required(VERSION 2.8)
 project(ROServer)
 
 find_package(catkin REQUIRED COMPONENTS
-	TL
     ShellService
+    TL
 )
 
 catkin_package( CATKIN_DEPENDS
-	TL
 	ShellService
+	TL
 )
 ### include TL package
 include_directories(${catkin_INCLUDE_DIRS})
